@@ -2,7 +2,7 @@
 
 > **Alone, together.** A digital space for quiet presence.
 
-[Live Demo]( )
+[Live Demo]( https://sorakinu.github.io/silent_bonfire/ )
 
 Silent Bonfire is a minimalist ambient experience designed for focus, relaxation, and felt presence. In a world of loud social media and constant notifications, this is a space for "Silent Co-existence."
 
