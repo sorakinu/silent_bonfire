@@ -27,3 +27,7 @@ Silent Bonfire is a minimalist ambient experience designed for focus, relaxation
 1. Clone the repository
    ```bash
    git clone [https://github.com/YOUR_USERNAME/silent-bonfire.git](https://github.com/YOUR_USERNAME/silent-bonfire.git)
+
+   📜 Philosophy
+​The internet is often too loud. Silent Bonfire is built on the concept of "Ambient Sociability"—the comfort of knowing others are there without the pressure of interaction.
+​Created with 🪵 and 🔥.
