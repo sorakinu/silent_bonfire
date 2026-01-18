@@ -168,7 +168,7 @@ export default function SilentBonfire() {
       <div className="text-center mb-8 space-y-2">
         <div className="flex items-center justify-center gap-2 text-orange-200">
           <Flame className="w-6 h-6" />
-          <h1 className="text-3xl font-light tracking-wide">Silent Bonfire</h1>
+          <h1 className="text-3xl font-light tracking-wide">焚き火</h1>
         </div>
         <p className="text-gray-400 text-sm">Alone, together</p>
       </div>
